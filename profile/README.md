@@ -50,7 +50,7 @@
 - **엔진**: Unity  
 - **언어**: C#  
 - **아트 & UI**: Figma, Photoshop, Illustrator  
-- **사운드 디자인**: Audacity, FL Studio  
+- **사운드 디자인**: LMMS, FL Studio  
 - **협업 툴**: GitHub, Notion, Figma, Discord  
 
 ## 📅 진행 상황  
